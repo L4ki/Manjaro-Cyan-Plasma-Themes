@@ -17,4 +17,4 @@ Added icons: zoom.svg, slc.svg
 GTK Theme
 ---------
 
-Fixed icons: combo-entry.png, combo-entry-button.rng
+Fixed icons: combo-entry.png, combo-entry-button.png
