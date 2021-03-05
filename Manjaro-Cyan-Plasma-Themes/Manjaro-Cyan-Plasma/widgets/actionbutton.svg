@@ -12,7 +12,7 @@
    height="120"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    version="1.0"
    sodipodi:docname="actionbutton.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -1533,25 +1533,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1191"
-       id="linearGradient1185"
-       x1="10.999999"
-       y1="50"
-       x2="39.000015"
-       y2="50"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1191"
-       id="linearGradient1193"
-       x1="10.999999"
-       y1="88"
-       x2="39.000016"
-       y2="88"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.0214577e-5)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1191"
        id="linearGradient1235"
        x1="146.375"
        y1="55.000004"
@@ -1603,7 +1584,7 @@
      inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
      id="focus"
-     style="opacity:0.6;fill:#00b4b4;fill-opacity:1;stroke:#d3dae3;stroke-width:0.9375;stroke-opacity:1"
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke:#d3dae3;stroke-width:0.9375;stroke-opacity:1"
      cx="64.300003"
      cy="60.099998"
      r="15" />
@@ -1620,7 +1601,7 @@
      inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
      id="22-22-focus"
-     style="opacity:0.6;fill:#00b4b4;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#00b4b4;fill-opacity:1;stroke:none"
      cx="170"
      cy="67.000015"
      r="11" />
@@ -1657,7 +1638,7 @@
        rx="16"
        ry="16.000002" />
     <ellipse
-       style="opacity:1;fill:url(#linearGradient1185);fill-opacity:1.0;stroke:#d3dae3;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#d3dae3;fill-opacity:0.1;stroke:#008080;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4752-3"
        cx="25.000008"
        cy="50"
@@ -1676,7 +1657,7 @@
        rx="16"
        ry="16.000002" />
     <ellipse
-       style="opacity:1;fill:url(#linearGradient1193);fill-opacity:1;stroke:#d3dae3;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#d3dae3;fill-opacity:0.1;stroke:#008080;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-rule:nonzero"
        id="path4752-3-8"
        cx="25.000008"
        cy="88"
@@ -1695,7 +1676,7 @@
        rx="11"
        ry="11.000001" />
     <ellipse
-       style="opacity:1;fill:url(#linearGradient1235);fill-opacity:1.0;stroke:#d3dae3;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient1235);fill-opacity:1;stroke:#d3dae3;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4752-3-7"
        cx="156"
        cy="55.000004"
