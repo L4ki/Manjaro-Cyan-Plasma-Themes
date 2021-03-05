@@ -18,3 +18,25 @@ GTK Theme
 ---------
 
 Fixed icons: combo-entry.png, combo-entry-button.png
+
+Changelog: 05.03.2021.
+----------------------
+
+Icons
+------
+
+Icons correction: compass.svg 
+
+GTK-Theme
+---------
+
+Correction: gtkrc file 
+
+Plasma Themes
+--------------
+
+Added icons: compass.svg, video-card.svg
+
+Fixed icons: notification.svg, pamac.svg, notifications.svg, plasmavault_error.svg, update.svg, video.svg
+
+Fixed widget: actionbutton.svg 
