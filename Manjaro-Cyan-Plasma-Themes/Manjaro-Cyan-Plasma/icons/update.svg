@@ -29,7 +29,7 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
-     inkscape:current-layer="update-low"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="2.8007451"
      inkscape:cx="72.925183"
@@ -83,7 +83,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00478909" />
       <polygon
-         points="16.1,7 10,0 3.9,7 7,7 7,14 13,14 13,7 "
+         points="7,14 13,14 13,7 16.1,7 10,0 3.9,7 7,7 "
          id="polygon4"
          transform="matrix(0.15397842,0,0,0.13229167,1.3838592,292.76664)"
          style="fill:#d3dae3;fill-opacity:1" />
@@ -118,7 +118,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00676095" />
       <polygon
-         points="16.1,7 10,0 3.9,7 7,7 7,14 13,14 13,7 "
+         points="3.9,7 7,7 7,14 13,14 13,7 16.1,7 10,0 "
          id="polygon4-7"
          style="fill:#d3dae3;fill-opacity:1"
          transform="matrix(0.19550959,0,0,0.17197917,2.2802209,299.50031)" />
@@ -160,24 +160,24 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00676095" />
       <polygon
-         points="3.9,7 7,7 7,14 13,14 13,7 16.1,7 10,0 "
+         points="13,14 13,7 16.1,7 10,0 3.9,7 7,7 7,14 "
          id="polygon4-6"
          transform="matrix(0.19583504,0,0,0.17197917,10.745618,299.51354)"
-         style="fill:#ff0066;fill-opacity:1" />
+         style="fill:#ff557f;fill-opacity:1" />
       <rect
          x="12.121885"
          y="302.0932"
          width="1.1641667"
          height="0.34395835"
          id="rect6-7"
-         style="fill:#ff0066;fill-opacity:1;stroke-width:0.182671" />
+         style="fill:#ff557f;fill-opacity:1;stroke-width:0.182671" />
       <rect
          x="12.121885"
          y="302.60913"
          width="1.1641667"
          height="0.34395835"
          id="rect8-5"
-         style="fill:#ff0066;fill-opacity:1;stroke-width:0.182671" />
+         style="fill:#ff557f;fill-opacity:1;stroke-width:0.182671" />
     </g>
     <g
        id="update-medium">
@@ -195,7 +195,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00676095" />
       <polygon
-         points="7,7 7,14 13,14 13,7 16.1,7 10,0 3.9,7 "
+         points="13,14 13,7 16.1,7 10,0 3.9,7 7,7 7,14 "
          id="polygon4-5"
          style="fill:#ff7f2a;fill-opacity:1"
          transform="matrix(0.19583504,0,0,0.17197917,19.212285,299.51351)" />
@@ -230,7 +230,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00676095" />
       <polygon
-         points="13,14 13,7 16.1,7 10,0 3.9,7 7,7 7,14 "
+         points="3.9,7 7,7 7,14 13,14 13,7 16.1,7 10,0 "
          id="polygon4-1"
          transform="matrix(0.19583504,0,0,0.17197917,27.678952,299.24893)"
          style="fill:#1b76ff;fill-opacity:1" />
@@ -265,24 +265,24 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00478909" />
       <polygon
-         points="10,0 3.9,7 7,7 7,14 13,14 13,7 16.1,7 "
+         points="7,14 13,14 13,7 16.1,7 10,0 3.9,7 7,7 "
          id="polygon4-3"
          transform="matrix(0.15397841,0,0,0.13229167,7.2046926,292.76664)"
-         style="fill:#ff0066;fill-opacity:1" />
+         style="fill:#ff557f;fill-opacity:1" />
       <rect
          x="8.2814579"
          y="294.75101"
          width="0.9392674"
          height="0.26458332"
          id="rect6-67"
-         style="fill:#ff0066;fill-opacity:1;stroke-width:0.143908" />
+         style="fill:#ff557f;fill-opacity:1;stroke-width:0.143908" />
       <rect
          x="8.2814579"
          y="295.14786"
          width="0.9392674"
          height="0.26458332"
          id="rect8-53"
-         style="fill:#ff0066;fill-opacity:1;stroke-width:0.143908" />
+         style="fill:#ff557f;fill-opacity:1;stroke-width:0.143908" />
     </g>
     <g
        id="22-22-update-medium">
@@ -300,7 +300,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00478909" />
       <polygon
-         points="3.9,7 7,7 7,14 13,14 13,7 16.1,7 10,0 "
+         points="7,14 13,14 13,7 16.1,7 10,0 3.9,7 7,7 "
          id="polygon4-3-5"
          transform="matrix(0.15397835,0,0,0.13229167,13.025526,292.76664)"
          style="fill:#ff7f2a;fill-opacity:1" />
@@ -335,7 +335,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00478909" />
       <polygon
-         points="7,7 7,14 13,14 13,7 16.1,7 10,0 3.9,7 "
+         points="13,14 13,7 16.1,7 10,0 3.9,7 7,7 7,14 "
          id="polygon4-3-9"
          transform="matrix(0.1539784,0,0,0.13229167,18.846359,292.76664)"
          style="fill:#1b76ff;fill-opacity:1" />
