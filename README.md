@@ -40,3 +40,21 @@ Added icons: compass.svg, video-card.svg
 Fixed icons: notification.svg, pamac.svg, notifications.svg, plasmavault_error.svg, update.svg, video.svg
 
 Fixed widget: actionbutton.svg 
+
+Changelog: 13.03.2021.
+---------------------
+
+GTK-Theme
+---------
+
+Correction: gtk.css file
+
+Icons
+------
+
+Changed icons: bookmark.svg (actions) 
+
+Plasma Themes
+-------------
+
+Added icons: user.svg, kopete.svg
