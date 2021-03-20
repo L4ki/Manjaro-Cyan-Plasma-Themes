@@ -58,3 +58,13 @@ Plasma Themes
 -------------
 
 Added icons: user.svg, kopete.svg
+
+Changelog: 20.03.2021.
+----------------------
+
+Added Icons: action(48 and 64)
+
+Plasma Themes
+--------------
+
+Added Icons: choqok_offline, choqok.svg, utilities.svg
