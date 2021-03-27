@@ -68,3 +68,21 @@ Plasma Themes
 --------------
 
 Added Icons: choqok_offline, choqok.svg, utilities.svg
+
+Changelog: 27.03.2021.
+----------------------
+
+GTK Theme
+---------
+
+Correction: gtkrc file and gtk.css file
+
+Icons
+-----
+
+Added icons: image-missing.svg (16, 64)
+
+Plasma Themes
+-------------
+
+Added icons: software.svg, kup.svg
