@@ -86,3 +86,21 @@ Plasma Themes
 -------------
 
 Added icons: software.svg, kup.svg
+
+Changelog: 03.04.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Fixed: checkbox-checked-active.png
+
+Icons
+------
+
+Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit, folder-Pop_OS (16,22,24)
+
+Plasma Themes
+--------------
+
+Added icon: mobile.svg
