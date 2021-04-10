@@ -104,3 +104,26 @@ Plasma Themes
 --------------
 
 Added icon: mobile.svg
+
+Changelog: 10.04.2021.
+----------------------
+
+Gtk Theme
+--------
+
+Fixed icons: line.png, menu-border.png
+
+Icons
+------
+
+Added some icons: (apps 32, 48)
+
+Plasma Theme
+------------
+
+Fixed wideget: clock.svg  (Solid Theme)
+
+Added widget: dragger.svg
+
+
+
