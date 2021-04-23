@@ -125,5 +125,23 @@ Fixed wideget: clock.svg  (Solid Theme)
 
 Added widget: dragger.svg
 
+Changelog: 23.04.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: border.png, button.png
+
+Icons
+-----
+
+Added new icons: applets (256)
+
+Plasma Themes
+-------------
+
+Added widgets: configuration-icons.svg, containment-controls
+
 
 
