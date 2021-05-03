@@ -143,5 +143,22 @@ Plasma Themes
 
 Added widgets: configuration-icons.svg, containment-controls
 
+Changelog: 03.05.2021.
+----------------------
+
+GTK-Theme
+----------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Themes
+-------------
+
+Fixed icon: input.svg
 
 
