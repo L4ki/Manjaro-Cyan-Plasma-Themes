@@ -162,6 +162,7 @@ Plasma Themes
 Fixed icon: input.svg
 
 Changelog: 10.05.2021.
+----------------------
 
 GTK Theme
 ----------
