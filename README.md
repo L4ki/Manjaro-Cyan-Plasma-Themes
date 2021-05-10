@@ -161,4 +161,19 @@ Plasma Themes
 
 Fixed icon: input.svg
 
+Changelog: 10.05.2021.
 
+GTK Theme
+----------
+
+Correction: gtkrc file
+
+Icons
+-----
+
+Fixed some icons: actions (16,22.24.32)
+
+Plasma Themes
+--------------
+
+Added icons: fcitx.svg, ime.svg
