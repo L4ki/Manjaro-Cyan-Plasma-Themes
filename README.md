@@ -178,3 +178,21 @@ Plasma Themes
 --------------
 
 Added icons: fcitx.svg, ime.svg
+
+Changelog: 18.5.2021.
+---------------------
+
+GTK Theme
+----------
+
+Fixed icons: Fixed icons: handle, handle-vert, handle-horz
+
+Icons
+-----
+
+Added new icons: emblems (16, 22, 24)
+
+Plasma Themes
+--------------
+
+Fixed widget: tasks.svg
