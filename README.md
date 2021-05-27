@@ -196,3 +196,21 @@ Plasma Themes
 --------------
 
 Fixed widget: tasks.svg
+
+Changelog: 27.05.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+Icons
+------
+
+Added new icons: status (48, 64)
+
+Plasma Themes
+--------------
+
+Added icons: audacious.svg, elisa.svg
