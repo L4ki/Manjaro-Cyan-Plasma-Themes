@@ -233,3 +233,16 @@ Plasma Themes
 
 Added icons: juk.svg, kdf.svg
 
+Changelog: 26.07.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (16)
+
+Plasma Theme
+------------
+
+Fixed icon: juk.svg
+
