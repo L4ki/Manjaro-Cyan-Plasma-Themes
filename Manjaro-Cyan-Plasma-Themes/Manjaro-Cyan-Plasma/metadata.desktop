@@ -4,9 +4,13 @@ Comment=-Manjaro-Cyan-Plasma
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=lak1987@gmail.com
 X-KDE-PluginInfo-Name=Manjaro-Cyan-Plasma
-X-KDE-PluginInfo-Version=2.6
+X-KDE-PluginInfo-Version=2.7
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
+
