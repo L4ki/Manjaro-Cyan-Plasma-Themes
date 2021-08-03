@@ -246,3 +246,16 @@ Plasma Theme
 
 Fixed icon: juk.svg
 
+Changelog: 03.08.2021.
+---------------------
+
+Icons
+-----
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
