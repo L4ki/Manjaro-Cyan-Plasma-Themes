@@ -259,3 +259,17 @@ Plasma Theme
 
 Enable "Adaptive Transparency" for Plasma 5.22
 
+Changelog: 10.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+------------
+
+Fixed widgets: action-overlays.svg, lineedit.svg
+
+
