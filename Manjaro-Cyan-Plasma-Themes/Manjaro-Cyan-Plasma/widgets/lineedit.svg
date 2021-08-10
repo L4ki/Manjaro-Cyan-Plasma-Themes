@@ -15,7 +15,7 @@
    sodipodi:docname="lineedit.svg"
    height="20"
    width="20"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
@@ -43,15 +43,16 @@
      inkscape:zoom="8"
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      objecttolerance="10.0"
      gridtolerance="10.0"
      guidetolerance="10.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016">
+     inkscape:window-height="1007"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -72,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:Work
          rdf:about="">
