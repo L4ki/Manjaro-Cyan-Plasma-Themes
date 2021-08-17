@@ -272,4 +272,17 @@ Plasma Theme
 
 Fixed widgets: action-overlays.svg, lineedit.svg
 
+Changelog: 17.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: Actions (24)
+
+Plasma Theme
+------------
+
+Fixed icons: pamac.svg, manjaro.svg
+
 
