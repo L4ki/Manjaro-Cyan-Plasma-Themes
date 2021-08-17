@@ -16,7 +16,7 @@
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -34,7 +34,9 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4153"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid887"
@@ -49,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
