@@ -285,4 +285,17 @@ Plasma Theme
 
 Fixed icons: pamac.svg, manjaro.svg
 
+Changelog: 04.09.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps (16, 32, 48)
+
+Plasma Theme
+-------------
+
+Fixed icons: applications.svg, audio.svg
+
 
