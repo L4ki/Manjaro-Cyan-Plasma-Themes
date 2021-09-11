@@ -298,4 +298,17 @@ Plasma Theme
 
 Fixed icons: applications.svg, audio.svg
 
+Changelog: 11.09.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (16, 22, 24)
+
+Plasma Theme
+-------------
+
+Fixed icons: kdeconnect.svg, redshift.svg
+
 
