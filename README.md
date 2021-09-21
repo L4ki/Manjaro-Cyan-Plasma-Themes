@@ -311,4 +311,14 @@ Plasma Theme
 
 Fixed icons: kdeconnect.svg, redshift.svg
 
+Changelog: 21.09.2021.
+-----------------------
+
+Icons: Added new icons: status (22, 24)
+
+Plasma Theme
+------------
+
+Fixed widgets: slider.svg, tabbar.svg, listitem.svg, scrollbar.svg
+
 
