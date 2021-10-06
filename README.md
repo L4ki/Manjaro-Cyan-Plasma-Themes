@@ -321,4 +321,17 @@ Plasma Theme
 
 Fixed widgets: slider.svg, tabbar.svg, listitem.svg, scrollbar.svg
 
+Changelog: 06.10.2021.
+---------------------
+
+Icons
+--------
+
+Added new icons: mimetypes (22)
+
+Plasma Theme
+------------
+
+Fixed icons: device.svg, disk.svg
+
 
