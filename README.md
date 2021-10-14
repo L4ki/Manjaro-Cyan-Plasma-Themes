@@ -334,4 +334,17 @@ Plasma Theme
 
 Fixed icons: device.svg, disk.svg
 
+Changelog: 14.10.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (32, 64)
+
+Plasma Theme
+------------
+
+Fixed widget: containment-controls.svg
+
 
