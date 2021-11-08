@@ -375,5 +375,18 @@ Plasma Theme
 
 Fixed widget: slider.svg
 
+Changelog: 08.11.2021.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Fixed widget: tasks.svg
+
 
 
