@@ -440,5 +440,19 @@ Plasma Theme
 
 Update widget: panel-background.svg
 
+Changelog: 05.01.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
+
 
 
