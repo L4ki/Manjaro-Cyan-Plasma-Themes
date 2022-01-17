@@ -453,6 +453,20 @@ Plasma Theme
 
 Update widget: tooltip.svg
 
+Changelog: 17.01.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions (48)
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
+
 
 
 
