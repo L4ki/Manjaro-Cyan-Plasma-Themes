@@ -501,6 +501,14 @@ Icons
 
 Update icons: apps
 
+Changelog: 05.01.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
 
 
 
